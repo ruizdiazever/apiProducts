@@ -5,4 +5,4 @@
 - **[Django Rest Framework](https://www.django-rest-framework.org/)**
 
 ## Documentacion
-- [**Primeros pasos**](https://github.com/ruizdiazever/djangovue/blob/master/docs/docs/api.md)
+- [**Primeros pasos**](https://github.com/ruizdiazever/products/blob/master/docs/docs/api.md)
